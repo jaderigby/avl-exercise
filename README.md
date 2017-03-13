@@ -15,7 +15,7 @@ Clone or download repo.
 
 - [download & install](https://www.mongodb.com/download-center#community)
 
-- if you are on a mac and have homebrew, run:
+- If you are on a mac and have homebrew, you can install by running the following:
 
 ```
 brew install mongodb
@@ -53,4 +53,4 @@ It's main focus is on wireframeing new sites, concepts/ideas, and workflows.  Be
 
 - I focused mainly on functionality, ux, and behavior.  Validation is limited to mainly components as demonstrated from your mockups.
 
-Hope this helps! :)
+Hope this helps! ;)
