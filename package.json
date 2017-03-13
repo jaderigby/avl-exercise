@@ -1,0 +1,14 @@
+{
+  "name": "avantlink-exercise",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "morgan": "^1.8.1",
+    "opn": "^4.0.2",
+    "serve-static": "^1.12.1",
+    "uglify-js": "^2.7.5"
+  }
+}
